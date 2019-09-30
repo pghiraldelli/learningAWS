@@ -10,5 +10,5 @@ functions:
     handler: handler.index
     events:
       - http:
-          path: users/create
+          path: hello/world
           method: get
