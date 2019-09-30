@@ -4,6 +4,8 @@ This is a repository to store the code from the Amazon's tutorials to learn AWS 
 
 This will be separated into folders for every example and it will contain it's own readme with the explanation.
 
+## Serverless framework
+
 Some of the projects use [serverless](https://serverless.com/) for building and operating serverless applications and these are some of the commands.
 
 To install serverless:
