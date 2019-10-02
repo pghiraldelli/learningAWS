@@ -11,3 +11,8 @@ To install the plugin:
 ```
     $ npm install --save-dev serverless-step-functions
 ```
+
+## Some useful reference
+
+- https://serverless.com/blog/how-to-manage-your-aws-step-functions-with-serverless/
+- https://serverless.com/plugins/serverless-step-functions/
