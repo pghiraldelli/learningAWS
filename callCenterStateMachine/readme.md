@@ -11,18 +11,3 @@ To install the plugin:
 ```
     $ npm install --save-dev serverless-step-functions
 ```
-
-To create and deploy a new service/project:
-```
-    $ serverless
-```
-
-To configure credentials, using an user created in your provider:
-```
-    $ serverless config credentials --provider ${PROVIDER} --key ${KEY} --secret ${SECRET}
-```
-
-To deploy:
-```
-    $ serverless deploy
-```
